@@ -2,6 +2,7 @@
 * xeeyzkylhgprgx.bid * block
 * yqlfiutmnbazmj.bid * block
 * easylist.club * block
+* dhgcqqmtf.com * block
 ! ---------- Generic Blocking Rules ----------
 $popup,third-party,domain=oload.tv|oload.stream|openload.co
 $webrtc,domain=forum.xda-developers.com|phim14.net|mkvcage.com|phimotv.net|dailyuploads.net|uploadocean.com|appvn.com
